@@ -1,0 +1,2 @@
+pdfs are put here
+.gitignore is used to keep my pdfs from showing here
